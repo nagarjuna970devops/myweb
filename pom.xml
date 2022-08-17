@@ -28,12 +28,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nagaRepo</id>
-		    <url>http://172.31.47.16:8081/repository/naga-snapshot/</url>
+		    <url>http://172.31.47.16:8081/repository/naga-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nagaRepo</id>
-		    <url>http://172.31.47.16:8081/repository/naga-release/</url>
+		    <url>http://172.31.47.16:8081/repository/naga-releases/</url>
 		</repository>
   	</distributionManagement>
 	
